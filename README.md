@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barath G</h1>
-<h3 align="center">18 y/o Computer Science student | Full-stack developer in progress | AI enthusiast</h3>
+<h3 align="center">18 y/o Computer Science student | Software Engineer in progress | AI enthusiast</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
